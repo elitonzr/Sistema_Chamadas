@@ -1,0 +1,64 @@
+.barraSuperior{
+	text-align: center;
+	height: 300px;
+	margin-top: 40px;
+}
+
+.senhaAtual{
+	text-align: center;
+	background-color: #046825;
+	color: white;
+	margin-top: 10px;
+	height: 220px;
+}
+
+.senhaAtualTexto{
+	font-size: 120pt;
+	font-weight: 800;
+}
+
+#senhaAtualNumero{
+	font-size: 120pt;
+	font-weight: 800;
+}
+
+.ultimaSenha{
+	font-weight: 800;
+	text-align: center;
+	background-color: #ccc;
+	height: 110px;
+	margin-top: 20px;
+}
+
+#ultimaSenhaTexto{
+	font-size: 20px;
+	color: #a50;
+}
+
+#ultimaSenhaNumero{
+	font-size: 40px;
+	color: black;
+}
+
+.dpiLogo{
+	max-width: 400px;
+}
+
+.imagemLogo{
+	max-width: 400px;
+}
+
+.dpiTexto{
+	font-size: 27pt;
+	font-weight: 800;
+	color: #168f3f;
+}
+
+.subtitulo{
+	font-size: 30px;
+	font-weight: 400;
+}
+
+audio{
+	display: none;
+}
