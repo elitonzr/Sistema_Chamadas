@@ -6,7 +6,13 @@
 
 .senhaAtual{
 	text-align: center;
-	background-color: #0000CD;
+	background-color:#0000CD;
+	/* background-color:#e67f2d; /* Periapical */
+	/* background-color:#d377bd;	/* Boca Toda */
+	/* background-color:#5ab0d0;	/* Doc */
+	/* background-color:#47d867;	/* Tomo */
+	/* background-color:#d0d5d8;	/* Pan/Tele */
+	/* background-color:#ebe41b;	/* Scaneamento */
 	color: white;
 	margin-top: 10px;
 	height: 220px;
